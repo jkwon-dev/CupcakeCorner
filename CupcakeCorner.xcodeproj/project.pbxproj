@@ -13,6 +13,7 @@
 		1DC326FF2B26E7D7008E0BFD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DC326FE2B26E7D7008E0BFD /* Preview Assets.xcassets */; };
 		1DC327062B26E7EB008E0BFD /* Tutorial1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC327052B26E7EB008E0BFD /* Tutorial1.swift */; };
 		1DC327082B26F614008E0BFD /* Tutorial2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC327072B26F614008E0BFD /* Tutorial2.swift */; };
+		1DC3270A2B26FAC1008E0BFD /* Tutorial3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC327092B26FAC1008E0BFD /* Tutorial3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1DC326FE2B26E7D7008E0BFD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1DC327052B26E7EB008E0BFD /* Tutorial1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tutorial1.swift; sourceTree = "<group>"; };
 		1DC327072B26F614008E0BFD /* Tutorial2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tutorial2.swift; sourceTree = "<group>"; };
+		1DC327092B26FAC1008E0BFD /* Tutorial3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tutorial3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1DC326F92B26E7D6008E0BFD /* ContentView.swift */,
 				1DC327052B26E7EB008E0BFD /* Tutorial1.swift */,
 				1DC327072B26F614008E0BFD /* Tutorial2.swift */,
+				1DC327092B26FAC1008E0BFD /* Tutorial3.swift */,
 				1DC326FB2B26E7D7008E0BFD /* Assets.xcassets */,
 				1DC326FD2B26E7D7008E0BFD /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DC3270A2B26FAC1008E0BFD /* Tutorial3.swift in Sources */,
 				1DC327082B26F614008E0BFD /* Tutorial2.swift in Sources */,
 				1DC326FA2B26E7D6008E0BFD /* ContentView.swift in Sources */,
 				1DC326F82B26E7D6008E0BFD /* CupcakeCornerApp.swift in Sources */,
